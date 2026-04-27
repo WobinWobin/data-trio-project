@@ -1,11 +1,19 @@
+import os
 import re
 import time
+import threading
 import requests
 import pandas as pd
 from datetime import date
 from tqdm import tqdm
 from xml.etree import ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from selenium import webdriver
+from selenium.webdriver.edge.service import Service
+from selenium.webdriver.edge.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 # =============================================================================
 # CONFIG
@@ -14,6 +22,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 STORE_NAME       = "SM Markets"
 SITEMAP_PRODUCTS = "https://smmarkets.ph/media/sitemap-1-2.xml"
 OUTPUT_PATH      = "results/grocery_data.csv"
+DRIVER_PATH      = r"C:\Users\trist\Downloads\DMW\data-trio-project\DMW\groceries\msedgedriver.exe"
 
 HEADERS = {
     "User-Agent": (
@@ -23,8 +32,11 @@ HEADERS = {
     )
 }
 
-MAX_WORKERS  = 8
-POLITE_DELAY = 0.3
+PAGE_LOAD_WAIT = 8   # max seconds to wait for page before giving up
+POLITE_DELAY   = 1.0 # seconds between requests per browser (ethical minimum)
+NUM_BROWSERS   = 5   # number of parallel Edge instances — adjust based on your RAM
+                     # each browser uses ~150-200MB. 5 browsers ≈ 1GB RAM
+MAX_WORKERS    = 8
 
 # Ordered from most specific to least to avoid wrong matches
 NAME_RULES = [
@@ -245,19 +257,47 @@ def fetch_products_from_sitemap(sitemap_url: str) -> list[dict]:
 
 
 # =============================================================================
-# PRICE FETCHER
+# SELENIUM DRIVER
 # =============================================================================
 
-def fetch_price(url: str, session: requests.Session) -> float | None:
+def create_driver() -> webdriver.Edge:
     """
-    Fetches a product page and extracts the price from Magento's JSON block.
+    Creates a headless Edge WebDriver using the local msedgedriver.exe.
+    Images are disabled to speed up page loads.
+    """
+    options = Options()
+    options.add_argument("--headless=new")
+    options.add_argument("--window-size=1920,1080")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-blink-features=AutomationControlled")
+    options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    options.add_experimental_option("useAutomationExtension", False)
+    options.add_argument(
+        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    )
+    prefs = {"profile.managed_default_content_settings.images": 2}
+    options.add_experimental_option("prefs", prefs)
+    driver = webdriver.Edge(service=Service(DRIVER_PATH), options=options)
+    driver.implicitly_wait(5)
+    return driver
+
+
+def fetch_price_selenium(driver: webdriver.Edge, url: str) -> float | None:
+    """
+    Visits a product page and extracts the price using the rendered CSS class.
+
+    SM Markets renders price in a div with class matching 'productFullDetail-price'.
+    We wait until that element appears (fast, stops as soon as it loads)
+    then extract the ₱ value from it.
 
     Parameters
     ----------
+    driver : webdriver.Edge
+        Active Selenium WebDriver instance.
     url : str
         Full product page URL.
-    session : requests.Session
-        Shared session for connection reuse.
 
     Returns
     -------
@@ -265,17 +305,20 @@ def fetch_price(url: str, session: requests.Session) -> float | None:
         Price in PHP, or None if not found.
     """
     try:
-        time.sleep(POLITE_DELAY)
-        resp = session.get(url, headers=HEADERS, timeout=15)
-        html = resp.text
-        match = re.search(
-            r'"finalPrice"\s*:\s*\{[^}]*"amount"\s*:\s*([\d.]+)', html
+        driver.get(url)
+
+        # wait until the price div appears — class contains 'productFullDetail-price'
+        el = WebDriverWait(driver, PAGE_LOAD_WAIT).until(
+            EC.presence_of_element_located(
+                (By.CSS_SELECTOR, "[class*='productFullDetail-price']")
+            )
         )
+        raw = el.text.strip()
+        raw = raw.replace(",", "").replace("₱", "").strip()
+        match = re.search(r'\d+(\.\d+)?', raw)
         if match:
-            return float(match.group(1))
-        match = re.search(r'"price"\s*:\s*"?([\d.]+)"?', html)
-        if match:
-            return float(match.group(1))
+            return float(match.group(0))
+
     except Exception:
         pass
     return None
@@ -292,23 +335,17 @@ class GroceryScraper:
     Strategy:
     1. Parse sitemap-1-2.xml to get all product names instantly (no browser).
     2. Assign category from product name using keyword rules.
-    3. Fetch prices concurrently via requests (8 threads).
+    3. Use Selenium to visit each product page and fetch the price.
+       (requests is blocked with 403 by smmarkets.ph)
 
     Parameters
     ----------
     output_path : str
         Path where the final CSV will be saved.
-    max_workers : int
-        Number of concurrent threads for price fetching.
     """
 
-    def __init__(
-        self,
-        output_path: str = OUTPUT_PATH,
-        max_workers: int = MAX_WORKERS
-    ):
+    def __init__(self, output_path: str = OUTPUT_PATH):
         self.output_path = output_path
-        self.max_workers = max_workers
 
     def execute(self) -> pd.DataFrame:
         """
@@ -317,7 +354,7 @@ class GroceryScraper:
         Steps:
         1. Parse product sitemap for names and URLs.
         2. Assign category by keyword matching on product name.
-        3. Fetch prices concurrently with requests.
+        3. Use Selenium to visit each product page and fetch the price.
         4. Assemble and save the final DataFrame.
 
         Returns
@@ -326,7 +363,6 @@ class GroceryScraper:
             Dataset with columns: item_category, item_name, brand,
             unit_size, price_php, store, date_scraped.
         """
-        import os
         os.makedirs(
             os.path.dirname(self.output_path)
             if os.path.dirname(self.output_path) else ".",
@@ -346,37 +382,63 @@ class GroceryScraper:
         )
         print(f"Categorized: {categorized} / {len(products)} from name matching.")
 
-        # step 3: fetch prices concurrently
-        print(f"Fetching prices with {self.max_workers} workers...")
+        # step 3: fetch prices with NUM_BROWSERS parallel Edge instances
+        print(f"Launching {NUM_BROWSERS} parallel browsers for {len(products)} products...")
+        est = len(products) // NUM_BROWSERS * 2 // 60
+        print(f"Estimated time: ~{est} mins")
 
-        session = requests.Session()
         price_map = {}
+        lock = threading.Lock()
+        progress = tqdm(total=len(products), desc="Fetching prices")
 
-        with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
-            future_to_url = {
-                executor.submit(fetch_price, p["url"], session): p["url"]
-                for p in products
-            }
-            for future in tqdm(
-                as_completed(future_to_url),
-                total=len(products),
-                desc="Fetching prices"
-            ):
-                url = future_to_url[future]
-                price_map[url] = future.result()
+        def worker(chunk: list) -> None:
+            """Each thread owns one Edge browser and processes its product chunk."""
+            driver = create_driver()
+            try:
+                for p in chunk:
+                    price = fetch_price_selenium(driver, p["url"])
+                    with lock:
+                        price_map[p["url"]] = price
+                        progress.update(1)
+                        # checkpoint every 500 products fetched across all browsers
+                        if len(price_map) % 500 == 0:
+                            snap = [{
+                                "item_category": pp["item_category"],
+                                "item_name":     pp["item_name"],
+                                "brand":         parse_brand(pp["item_name"]),
+                                "unit_size":     parse_unit_size(pp["item_name"]),
+                                "price_php":     price_map.get(pp["url"]),
+                                "store":         STORE_NAME,
+                                "date_scraped":  today,
+                            } for pp in products if pp["url"] in price_map]
+                            pd.DataFrame(snap).to_csv(
+                                self.output_path + ".checkpoint.csv",
+                                index=False, encoding="utf-8-sig"
+                            )
+                    time.sleep(POLITE_DELAY)
+            finally:
+                driver.quit()
 
-        # step 4: assemble
-        records = []
-        for p in products:
-            records.append({
-                "item_category": p["item_category"],
-                "item_name":     p["item_name"],
-                "brand":         parse_brand(p["item_name"]),
-                "unit_size":     parse_unit_size(p["item_name"]),
-                "price_php":     price_map.get(p["url"]),
-                "store":         STORE_NAME,
-                "date_scraped":  today,
-            })
+        # split products evenly across browsers
+        chunk_size = len(products) // NUM_BROWSERS + 1
+        chunks = [products[i:i + chunk_size] for i in range(0, len(products), chunk_size)]
+
+        threads = [threading.Thread(target=worker, args=(c,)) for c in chunks]
+        for t in threads:
+            t.start()
+        for t in threads:
+            t.join()
+        progress.close()
+
+        records = [{
+            "item_category": p["item_category"],
+            "item_name":     p["item_name"],
+            "brand":         parse_brand(p["item_name"]),
+            "unit_size":     parse_unit_size(p["item_name"]),
+            "price_php":     price_map.get(p["url"]),
+            "store":         STORE_NAME,
+            "date_scraped":  today,
+        } for p in products]
 
         df = pd.DataFrame(records)
         df.sort_values(["item_category", "item_name"], inplace=True)
