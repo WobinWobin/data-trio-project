@@ -1,0 +1,256 @@
+film_title,year,genre,runtime_mins,avg_rating,num_ratings,num_reviews,country,language,letterboxd_url,date_scraped
+La La Land,2016,Drama|Comedy|Romance,129,4.12,4633643.0,991788.0,USA,English,https://letterboxd.com/film/la-la-land/,2026-05-03
+Eternal Sunshine of the Spotless Mind,2004,Science Fiction|Romance|Drama,108,4.24,3455775.0,694638.0,USA,English,https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/,2026-05-03
+10 Things I Hate About You,1999,Comedy|Drama|Romance,97,4.05,3819636.0,714889.0,USA,English|English|French,https://letterboxd.com/film/10-things-i-hate-about-you/,2026-05-03
+Forrest Gump,1994,Drama|Romance|Comedy,142,4.18,3828051.0,302366.0,USA,English,https://letterboxd.com/film/forrest-gump/,2026-05-03
+Challengers,2024,Romance|Drama,132,3.83,2764513.0,1043123.0,Italy|USA,English|English|Romanian,https://letterboxd.com/film/challengers/,2026-05-03
+(500) Days of Summer,2009,Romance|Comedy|Drama,95,3.65,3014383.0,685775.0,USA,English|English|French|Swedish,https://letterboxd.com/film/500-days-of-summer/,2026-05-03
+Call Me by Your Name,2017,Romance|Drama,132,3.85,2954575.0,599638.0,Brazil|France|Italy|USA,English|French|English|Italian,https://letterboxd.com/film/call-me-by-your-name/,2026-05-03
+Little Women,2019,Drama|Romance,135,4.18,2781850.0,558626.0,USA,English|French|English,https://letterboxd.com/film/little-women-2019/,2026-05-03
+Poor Things,2023,Romance|Science Fiction|Comedy,141,3.93,2529244.0,688193.0,Ireland|UK|USA,English|English|French|Portuguese,https://letterboxd.com/film/poor-things-2023/,2026-05-03
+Wicked,2024,Romance|Drama|Fantasy,162,3.77,2672533.0,1040753.0,USA,English,https://letterboxd.com/film/wicked-2024/,2026-05-03
+Anora,2024,Drama|Romance|Comedy,139,3.79,2415494.0,843471.0,USA,English|English|Russian|Armenian,https://letterboxd.com/film/anora/,2026-05-03
+Titanic,1997,Drama|Romance,194,3.83,3102445.0,266812.0,USA,English|English|French|German|Swedish|Italian|Russian,https://letterboxd.com/film/titanic-1997/,2026-05-03
+The Notebook,2004,Romance|Drama,123,3.87,2509980.0,486804.0,USA,English,https://letterboxd.com/film/the-notebook/,2026-05-03
+Scott Pilgrim vs. the World,2010,Romance|Action|Comedy,113,3.88,2499855.0,461251.0,Japan|UK|USA,English,https://letterboxd.com/film/scott-pilgrim-vs-the-world/,2026-05-03
+Her,2013,Science Fiction|Romance|Drama,126,3.97,2162521.0,321503.0,USA,English,https://letterboxd.com/film/her/,2026-05-03
+Pride & Prejudice,2005,Drama|Romance,128,4.14,2077654.0,537761.0,France|UK|USA,English,https://letterboxd.com/film/pride-prejudice/,2026-05-03
+Past Lives,2023,Drama|Romance,106,4.16,1739604.0,592471.0,USA|South Korea,English|English|Korean,https://letterboxd.com/film/past-lives/,2026-05-03
+How to Lose a Guy in 10 Days,2003,Comedy|Romance,116,3.79,2123370.0,467720.0,USA,English,https://letterboxd.com/film/how-to-lose-a-guy-in-10-days/,2026-05-03
+Hamnet,2025,History|Drama|Romance,125,4.19,1488282.0,656551.0,UK|USA,English,https://letterboxd.com/film/hamnet/,2026-05-03
+Twilight,2008,Drama|Fantasy|Romance,122,3.08,2175544.0,542013.0,UK|USA,English,https://letterboxd.com/film/twilight-2008/,2026-05-03
+Mamma Mia!,2008,Comedy|Romance,108,3.86,2040605.0,431019.0,Germany|UK|USA,English|English|Greek (modern),https://letterboxd.com/film/mamma-mia/,2026-05-03
+Before Sunrise,1995,Romance|Drama,101,4.3,1431871.0,409885.0,Austria|USA,English|English|German|French,https://letterboxd.com/film/before-sunrise/,2026-05-03
+Brokeback Mountain,2005,Drama|Romance,134,4.16,1516866.0,405231.0,Canada|USA,English,https://letterboxd.com/film/brokeback-mountain/,2026-05-03
+Lost in Translation,2003,Comedy|Romance|Drama,102,3.76,1472986.0,274848.0,UK|USA,English|Japanese|English,https://letterboxd.com/film/lost-in-translation/,2026-05-03
+Anyone But You,2023,Romance|Comedy,103,2.82,1920962.0,523692.0,USA,English,https://letterboxd.com/film/anyone-but-you/,2026-05-03
+The Drama,2026,Romance|Drama|Comedy,105,3.74,1302272.0,629363.0,USA,English,https://letterboxd.com/film/the-drama/,2026-05-03
+Amélie,2001,Romance|Comedy,122,4.19,1310904.0,203588.0,France|Germany,French|French|Russian,https://letterboxd.com/film/amelie/,2026-05-03
+Clueless,1995,Comedy|Romance,97,3.69,1819384.0,255900.0,USA,English|Spanish|English,https://letterboxd.com/film/clueless/,2026-05-03
+Portrait of a Lady on Fire,2019,Drama|Romance,121,4.42,1081864.0,301087.0,France,French|Italian|French,https://letterboxd.com/film/portrait-of-a-lady-on-fire/,2026-05-03
+About Time,2013,Drama|Fantasy|Romance,123,4.07,1476302.0,307694.0,UK|USA,English,https://letterboxd.com/film/about-time/,2026-05-03
+The Virgin Suicides,1999,Romance|Drama,97,3.85,1266838.0,318438.0,USA,English,https://letterboxd.com/film/the-virgin-suicides/,2026-05-03
+Shrek 2,2004,Family|Comedy|Romance|Animation|Fantasy,92,4.12,1965677.0,239684.0,USA,English,https://letterboxd.com/film/shrek-2/,2026-05-03
+Bones and All,2022,Horror|Drama|Romance,131,3.74,1204091.0,438922.0,Italy|USA,English,https://letterboxd.com/film/bones-and-all/,2026-05-03
+Corpse Bride,2005,Fantasy|Animation|Romance,77,3.91,1729568.0,228727.0,UK|USA,English,https://letterboxd.com/film/corpse-bride/,2026-05-03
+Juno,2007,Comedy|Romance|Drama,96,3.75,1549709.0,288101.0,USA,English,https://letterboxd.com/film/juno/,2026-05-03
+Edward Scissorhands,1990,Fantasy|Drama|Romance,105,3.9,1659285.0,170790.0,USA,English,https://letterboxd.com/film/edward-scissorhands/,2026-05-03
+Materialists,2025,Romance|Drama,116,2.89,1324428.0,551369.0,USA|Finland,English,https://letterboxd.com/film/materialists/,2026-05-03
+13 Going on 30,2004,Comedy|Romance|Fantasy,98,3.64,1636160.0,279118.0,USA,English,https://letterboxd.com/film/13-going-on-30-3/,2026-05-03
+When Harry Met Sally…,1989,Drama|Romance|Comedy,96,4.07,1200824.0,364070.0,USA,English,https://letterboxd.com/film/when-harry-met-sally/,2026-05-03
+Notting Hill,1999,Comedy|Romance,124,3.68,1402293.0,289983.0,UK|USA,English,https://letterboxd.com/film/notting-hill/,2026-05-03
+Priscilla,2023,Drama|Romance,113,3.52,1242380.0,385190.0,Italy|USA,English,https://letterboxd.com/film/priscilla/,2026-05-03
+In the Mood for Love,2000,Romance|Drama,99,4.38,973680.0,284704.0,Hong Kong|France,Cantonese|Cantonese|French|Spanish,https://letterboxd.com/film/in-the-mood-for-love/,2026-05-03
+"Crazy, Stupid, Love.",2011,Comedy|Romance|Drama,118,3.72,1502593.0,289949.0,USA,English,https://letterboxd.com/film/crazy-stupid-love/,2026-05-03
+Wuthering Heights,2026,Romance|Drama,136,2.76,1168682.0,599382.0,USA|UK,English,https://letterboxd.com/film/wuthering-heights-2026/,2026-05-03
+Wicked: For Good,2025,Adventure|Fantasy|Romance,137,3.41,1250564.0,579192.0,USA,English,https://letterboxd.com/film/wicked-for-good/,2026-05-03
+Your Name.,2016,Romance|Animation|Drama,106,4.23,1482148.0,186698.0,Japan,Japanese,https://letterboxd.com/film/your-name/,2026-05-03
+We Live in Time,2024,Drama|Romance,108,3.66,1072100.0,382481.0,UK,English,https://letterboxd.com/film/we-live-in-time/,2026-05-03
+The Great Gatsby,2013,Drama|Romance,143,3.46,1461290.0,161505.0,USA|Australia,English,https://letterboxd.com/film/the-great-gatsby-2013/,2026-05-03
+The Lobster,2015,Romance|Drama|Comedy,119,3.74,1141400.0,205809.0,France|Greece|Ireland|Netherlands|UK,English|English|French|Greek (modern),https://letterboxd.com/film/the-lobster/,2026-05-03
+The Worst Person in the World,2021,Drama|Romance|Comedy,128,4.08,946611.0,278824.0,Norway|Sweden|Denmark|France,Norwegian,https://letterboxd.com/film/the-worst-person-in-the-world/,2026-05-03
+No Hard Feelings,2023,Comedy|Romance,103,2.96,1381690.0,309244.0,USA,English|English|Portuguese|Spanish,https://letterboxd.com/film/no-hard-feelings-2023/,2026-05-03
+Me Before You,2016,Drama|Romance,110,3.55,1307959.0,261298.0,USA,English,https://letterboxd.com/film/me-before-you/,2026-05-03
+Love Actually,2003,Romance|Drama|Comedy,135,3.5,1216257.0,266336.0,France|UK,English|English|French|Portuguese,https://letterboxd.com/film/love-actually/,2026-05-03
+Moonrise Kingdom,2012,Romance|Drama|Comedy,94,4.03,1065574.0,169258.0,USA,English,https://letterboxd.com/film/moonrise-kingdom/,2026-05-03
+The Handmaiden,2016,Thriller|Romance|Drama,167,4.39,785839.0,187947.0,South Korea,Korean|Japanese|Korean,https://letterboxd.com/film/the-handmaiden/,2026-05-03
+Pretty Woman,1990,Comedy|Romance,120,3.71,1192314.0,182720.0,USA,English,https://letterboxd.com/film/pretty-woman/,2026-05-03
+The Princess Bride,1987,Adventure|Fantasy|Comedy|Family|Romance,99,4.1,1085921.0,206334.0,USA,English,https://letterboxd.com/film/the-princess-bride/,2026-05-03
+Before Sunset,2004,Drama|Romance,80,4.31,871968.0,224270.0,USA,English|English|French,https://letterboxd.com/film/before-sunset/,2026-05-03
+Pitch Perfect,2012,Music|Comedy|Romance,112,3.62,1303758.0,270240.0,USA,English,https://letterboxd.com/film/pitch-perfect/,2026-05-03
+Vertigo,1958,Thriller|Romance|Mystery,128,4.22,798384.0,149767.0,USA,English,https://letterboxd.com/film/vertigo/,2026-05-03
+The Fall Guy,2024,Action|Romance|Comedy,127,3.39,1135162.0,341989.0,USA|Australia,English,https://letterboxd.com/film/the-fall-guy-2024/,2026-05-03
+Fallen Angels,1995,Crime|Romance|Action,98,4.16,683571.0,189500.0,Hong Kong,Cantonese|English|Chinese|Japanese|Cantonese,https://letterboxd.com/film/fallen-angels/,2026-05-03
+Chungking Express,1994,Comedy|Drama|Romance,103,4.28,747381.0,216397.0,Hong Kong,"Cantonese|Cantonese|Hindi|Eastern Punjabi, Eastern Panjabi|Japanese|Chinese|Urdu|English",https://letterboxd.com/film/chungking-express/,2026-05-03
+Casablanca,1942,Drama|Romance,102,4.28,803920.0,165491.0,USA,English|German|French|Italian|English,https://letterboxd.com/film/casablanca/,2026-05-03
+The Princess Diaries,2001,Comedy|Romance|Family,115,3.71,1247954.0,145037.0,USA,English,https://letterboxd.com/film/the-princess-diaries/,2026-05-03
+But I’m a Cheerleader,1999,Romance|Comedy,85,4.01,846251.0,308052.0,USA,English,https://letterboxd.com/film/but-im-a-cheerleader/,2026-05-03
+The Shape of Water,2017,Fantasy|Drama|Romance,123,3.67,1043515.0,122372.0,USA,English|English|Russian,https://letterboxd.com/film/the-shape-of-water/,2026-05-03
+Babygirl,2024,Thriller|Romance,115,2.68,888965.0,385413.0,USA|Netherlands,English,https://letterboxd.com/film/babygirl-2024/,2026-05-03
+The Parent Trap,1998,Family|Romance|Comedy,128,3.81,1210964.0,144890.0,USA,English|Spanish|English|Italian|French,https://letterboxd.com/film/the-parent-trap-1998/,2026-05-03
+People We Meet on Vacation,2026,Comedy|Drama|Romance,116,3.17,948640.0,417926.0,USA,English,https://letterboxd.com/film/people-we-meet-on-vacation/,2026-05-03
+To All the Boys I’ve Loved Before,2018,Comedy|Romance,100,3.22,1197383.0,223001.0,USA,English,https://letterboxd.com/film/to-all-the-boys-ive-loved-before/,2026-05-03
+Grease,1978,Romance|Comedy,110,3.56,1107685.0,140657.0,USA|UK,English,https://letterboxd.com/film/grease/,2026-05-03
+Gone with the Wind,1939,War|Romance|Drama,233,3.86,256876.0,42469.0,USA,English,https://letterboxd.com/film/gone-with-the-wind/,2026-05-03
+The Shop Around the Corner,1940,Romance|Drama|Comedy,99,4.19,96914.0,32049.0,USA,English,https://letterboxd.com/film/the-shop-around-the-corner/,2026-05-03
+The Philadelphia Story,1940,Romance|Comedy,113,4.0,100586.0,27099.0,USA,English|English|French,https://letterboxd.com/film/the-philadelphia-story/,2026-05-03
+The Lady Eve,1941,Romance|Comedy,97,3.96,45093.0,13863.0,USA,English,https://letterboxd.com/film/the-lady-eve/,2026-05-03
+Brief Encounter,1945,Romance|Drama,86,4.32,108686.0,33358.0,UK,English,https://letterboxd.com/film/brief-encounter/,2026-05-03
+A Day in the Country,1946,Drama|Comedy|Romance,41,3.85,15937.0,3298.0,France,French,https://letterboxd.com/film/a-day-in-the-country/,2026-05-03
+Summer with Monika,1953,Drama|Romance,98,3.86,45168.0,8923.0,Sweden,Swedish,https://letterboxd.com/film/summer-with-monika/,2026-05-03
+Roman Holiday,1953,Romance|Comedy|Drama,119,4.19,311678.0,72429.0,USA,English|English|Italian,https://letterboxd.com/film/roman-holiday/,2026-05-03
+Journey to Italy,1954,Romance|Drama,85,3.81,34590.0,7536.0,Italy|France,Italian|English|Italian,https://letterboxd.com/film/journey-to-italy/,2026-05-03
+All That Heaven Allows,1955,Drama|Romance,89,4.07,59265.0,20277.0,USA,English,https://letterboxd.com/film/all-that-heaven-allows/,2026-05-03
+The Apartment,1960,Drama|Romance|Comedy,125,4.43,364585.0,98093.0,USA,English,https://letterboxd.com/film/the-apartment/,2026-05-03
+Jules and Jim,1962,Romance|Drama,106,3.93,91272.0,16217.0,France,French|English|French|German,https://letterboxd.com/film/jules-and-jim/,2026-05-03
+The Graduate,1967,Drama|Comedy|Romance,106,4.1,493855.0,105826.0,USA,English,https://letterboxd.com/film/the-graduate/,2026-05-03
+Harold and Maude,1971,Drama|Comedy|Romance,92,4.11,145762.0,35411.0,USA,English,https://letterboxd.com/film/harold-and-maude/,2026-05-03
+The Bitter Tears of Petra von Kant,1972,Romance|Drama,124,4.13,39634.0,10411.0,Germany,German,https://letterboxd.com/film/the-bitter-tears-of-petra-von-kant/,2026-05-03
+Ali: Fear Eats the Soul,1974,Drama|Romance,93,4.18,68415.0,14371.0,Germany,German|Arabic|German,https://letterboxd.com/film/ali-fear-eats-the-soul/,2026-05-03
+Gregory’s Girl,1980,Comedy|Romance,91,3.67,13425.0,3488.0,UK,English|English|Italian,https://letterboxd.com/film/gregorys-girl/,2026-05-03
+Lady Chatterley’s Lover,1981,Drama|Romance,104,2.69,1449.0,286.0,France|Germany|UK,English|English|French,https://letterboxd.com/film/lady-chatterleys-lover/,2026-05-03
+The Woman Next Door,1981,Romance|Drama,106,3.59,13939.0,1845.0,France,French|English|French,https://letterboxd.com/film/the-woman-next-door/,2026-05-03
+Burning an Illusion,1981,Drama,106,3.66,903.0,272.0,UK,English,https://letterboxd.com/film/burning-an-illusion/,2026-05-03
+My Beautiful Laundrette,1985,Romance|Comedy|Drama,98,3.54,36859.0,10001.0,UK,English|English|Urdu,https://letterboxd.com/film/my-beautiful-laundrette/,2026-05-03
+The Green Ray,1986,Drama|Romance,99,4.17,70659.0,20805.0,France,French|German|French|English|Spanish,https://letterboxd.com/film/the-green-ray/,2026-05-03
+Wings of Desire,1987,Drama|Fantasy|Romance,128,4.31,187467.0,44533.0,Germany|France,German|Turkish|Hebrew (modern)|German|Japanese|French|English|Spanish,https://letterboxd.com/film/wings-of-desire/,2026-05-03
+Maurice,1987,Drama|Romance,140,3.88,136827.0,42893.0,UK|USA,English|Latin|English,https://letterboxd.com/film/maurice/,2026-05-03
+Boomerang,1992,Comedy|Romance,117,3.04,19656.0,3382.0,USA,English|French|English,https://letterboxd.com/film/boomerang-1992/,2026-05-03
+Sleepless in Seattle,1993,Romance|Drama|Comedy,105,3.48,319463.0,76153.0,USA,English,https://letterboxd.com/film/sleepless-in-seattle/,2026-05-03
+Bombay,1995,Drama|Romance,141,3.91,10081.0,1544.0,India,Tamil,https://letterboxd.com/film/bombay/,2026-05-03
+Dilwale Dulhania Le Jayenge,1995,Drama|Comedy|Romance,190,4.01,50108.0,10935.0,India,Hindi,https://letterboxd.com/film/dilwale-dulhania-le-jayenge/,2026-05-03
+The Watermelon Woman,1996,Comedy|Drama|Romance,85,4.06,100978.0,35389.0,USA,English,https://letterboxd.com/film/the-watermelon-woman/,2026-05-03
+Breaking the Waves,1996,Drama|Romance,159,4.14,83032.0,14272.0,Denmark|France|Netherlands|Norway|Sweden,English,https://letterboxd.com/film/breaking-the-waves/,2026-05-03
+Beautiful Thing,1996,Comedy|Romance|Drama,92,3.88,26005.0,8292.0,UK,English,https://letterboxd.com/film/beautiful-thing/,2026-05-03
+Romeo + Juliet,1996,Romance|Drama,120,3.46,736653.0,122594.0,Australia|USA,English,https://letterboxd.com/film/romeo-juliet-1996/,2026-05-03
+Love Jones,1997,Drama|Comedy|Romance,109,3.83,16400.0,6207.0,USA,English,https://letterboxd.com/film/love-jones/,2026-05-03
+My Best Friend’s Wedding,1997,Comedy|Romance,105,3.19,338552.0,87388.0,USA,English|English|French|Italian,https://letterboxd.com/film/my-best-friends-wedding/,2026-05-03
+Hum Dil De Chuke Sanam,1999,Drama|Comedy|Romance,178,3.3,7023.0,809.0,India,Hindi|Hindi|English,https://letterboxd.com/film/hum-dil-de-chuke-sanam/,2026-05-03
+Love & Basketball,2000,Drama|Romance|Comedy,125,3.67,62503.0,18405.0,USA,English|English|Spanish,https://letterboxd.com/film/love-basketball/,2026-05-03
+Bridget Jones’s Diary,2001,Drama|Comedy|Romance,97,3.48,790407.0,186036.0,Ireland|USA|France|UK,English,https://letterboxd.com/film/bridget-joness-diary/,2026-05-03
+Punch-Drunk Love,2002,Drama|Romance|Comedy,96,3.96,703844.0,203220.0,USA,English,https://letterboxd.com/film/punch-drunk-love/,2026-05-03
+Down with Love,2003,Romance|Comedy,102,3.59,90022.0,35202.0,USA|Germany|Switzerland,English,https://letterboxd.com/film/down-with-love/,2026-05-03
+Ae Fond Kiss…,2004,Romance|Drama,104,3.46,2821.0,288.0,UK|Italy|Germany|Spain|Belgium,"English|Spanish|English|Eastern Punjabi, Eastern Panjabi",https://letterboxd.com/film/ae-fond-kiss/,2026-05-03
+Tropical Malady,2004,Drama|Romance|Fantasy,118,4.11,26032.0,7173.0,Thailand|France|Italy|Germany,Thai,https://letterboxd.com/film/tropical-malady/,2026-05-03
+My Summer of Love,2004,Romance|Drama,87,3.25,23340.0,5833.0,UK,English,https://letterboxd.com/film/my-summer-of-love/,2026-05-03
+Sabah,2005,Drama|Comedy|Romance,86,,,,Canada,Arabic|Arabic|English,https://letterboxd.com/film/sabah/,2026-05-03
+In the City of Sylvia,2007,Romance|Drama,82,3.78,4100.0,707.0,Spain|France,Spanish|French|Spanish,https://letterboxd.com/film/in-the-city-of-sylvia/,2026-05-03
+Blue Valentine,2010,Drama|Romance,112,3.78,510283.0,117249.0,USA,English,https://letterboxd.com/film/blue-valentine/,2026-05-03
+Perfect Sense,2011,Drama|Romance|Science Fiction,93,3.6,41331.0,5623.0,Germany|UK|Sweden|Denmark,English,https://letterboxd.com/film/perfect-sense/,2026-05-03
+Weekend,2011,Romance|Drama,96,3.93,48849.0,10805.0,UK,English,https://letterboxd.com/film/weekend-2011/,2026-05-03
+Think Like a Man,2012,Romance|Comedy,122,3.01,47225.0,9515.0,USA,English,https://letterboxd.com/film/think-like-a-man/,2026-05-03
+Stud Life,2012,Romance|Drama,91,3.05,1067.0,466.0,UK,English,https://letterboxd.com/film/stud-life/,2026-05-03
+Before Midnight,2013,Drama|Romance,109,4.01,548462.0,130480.0,Greece|USA,English|English|Greek (modern)|French,https://letterboxd.com/film/before-midnight/,2026-05-03
+Carol,2015,Drama|Romance,118,4.02,647249.0,171049.0,UK|USA,English,https://letterboxd.com/film/carol-2015/,2026-05-03
+Sunset Song,2015,History|Drama,135,3.55,5402.0,1141.0,Luxembourg|UK,English,https://letterboxd.com/film/sunset-song/,2026-05-03
+Paris 05:59 / Théo & Hugo,2016,Drama|Romance,97,3.5,7881.0,2028.0,France,French,https://letterboxd.com/film/paris-05-59-theo-hugo/,2026-05-03
+God’s Own Country,2017,Romance|Drama,104,3.97,151087.0,46011.0,UK,English|English|Romanian,https://letterboxd.com/film/gods-own-country-2017/,2026-05-03
+Let the Sunshine In,2017,Romance|Comedy|Drama,94,3.25,20357.0,4534.0,Belgium|France,French,https://letterboxd.com/film/let-the-sunshine-in/,2026-05-03
+If Beale Street Could Talk,2018,Drama|Romance,120,3.93,148577.0,29729.0,USA,English,https://letterboxd.com/film/if-beale-street-could-talk/,2026-05-03
+Only You,2018,Drama|Romance,119,3.25,9632.0,2955.0,UK|Sweden,English|Catalan|English|Spanish,https://letterboxd.com/film/only-you-2019/,2026-05-03
+The Souvenir,2019,Drama|Romance,120,3.48,63012.0,16923.0,UK|USA,English,https://letterboxd.com/film/the-souvenir/,2026-05-03
+Rye Lane,2023,Comedy|Romance,82,3.91,176897.0,72882.0,UK|USA,English,https://letterboxd.com/film/rye-lane/,2026-05-03
+Silver Haze,2023,Drama|Romance,103,3.22,3637.0,925.0,Netherlands|UK,English,https://letterboxd.com/film/silver-haze/,2026-05-03
+Beaches,1988,Drama|Comedy,123,3.61,25974.0,6246.0,USA,English,https://letterboxd.com/film/beaches/,2026-05-03
+CODA,2021,Drama|Music|Romance,112,3.87,428237.0,92944.0,France|USA,English|English|Spanish,https://letterboxd.com/film/coda-2021/,2026-05-03
+The Joy Luck Club,1993,Drama,139,4.0,26606.0,7935.0,USA|China,English|Cantonese|Chinese|English|French,https://letterboxd.com/film/the-joy-luck-club/,2026-05-03
+Make Way for Tomorrow,1937,Romance|Drama,92,4.23,20410.0,5422.0,USA,English,https://letterboxd.com/film/make-way-for-tomorrow/,2026-05-03
+Field of Dreams,1989,Drama|Fantasy,105,3.63,138780.0,22956.0,USA,English,https://letterboxd.com/film/field-of-dreams/,2026-05-03
+The Best Years of Our Lives,1946,Drama|Romance,171,4.25,48287.0,10173.0,USA,English,https://letterboxd.com/film/the-best-years-of-our-lives/,2026-05-03
+Grave of the Fireflies,1988,Animation|War|Drama,89,4.48,1180844.0,250385.0,Japan,Japanese,https://letterboxd.com/film/grave-of-the-fireflies/,2026-05-03
+Dancer in the Dark,2000,Drama|Crime,140,4.22,206345.0,50055.0,Denmark|Finland|France|Germany|Iceland|Netherlands|Norway|Sweden,English,https://letterboxd.com/film/dancer-in-the-dark/,2026-05-03
+The Fox and the Hound,1981,Animation|Adventure|Drama|Family,83,3.74,209672.0,22982.0,USA,English,https://letterboxd.com/film/the-fox-and-the-hound/,2026-05-03
+My Girl,1991,Comedy|Drama,103,3.77,324470.0,58303.0,USA,English,https://letterboxd.com/film/my-girl/,2026-05-03
+Life Is Beautiful,1997,Comedy|Drama,116,4.41,754425.0,78950.0,Italy,Italian,https://letterboxd.com/film/life-is-beautiful/,2026-05-03
+Moonlight,2016,Drama,111,4.2,1437579.0,222804.0,USA,English,https://letterboxd.com/film/moonlight-2016/,2026-05-03
+Old Yeller,1957,Adventure|Family|Western|Drama,84,3.35,17865.0,2068.0,USA,English,https://letterboxd.com/film/old-yeller/,2026-05-03
+The Color Purple,1985,History|Drama,154,3.93,141502.0,21897.0,USA,English|English|Portuguese|Spanish,https://letterboxd.com/film/the-color-purple/,2026-05-03
+Penny Serenade,1941,Romance|Drama,120,3.51,6485.0,1667.0,USA,English,https://letterboxd.com/film/penny-serenade/,2026-05-03
+In Name Only,1939,Romance|Drama,94,3.3,2680.0,712.0,USA,English,https://letterboxd.com/film/in-name-only/,2026-05-03
+Made for Each Other,1939,Comedy|Romance|Drama,92,3.07,3922.0,1103.0,USA,English,https://letterboxd.com/film/made-for-each-other/,2026-05-03
+A League of Their Own,1992,Comedy|Drama,128,3.82,155298.0,31755.0,USA,English,https://letterboxd.com/film/a-league-of-their-own/,2026-05-03
+Love Story,1970,Drama|Romance,100,3.39,37394.0,8171.0,USA,English,https://letterboxd.com/film/love-story-1970/,2026-05-03
+The Art of Racing in the Rain,2019,Romance|Drama,109,3.67,80979.0,20934.0,USA,English|Italian|Spanish|English,https://letterboxd.com/film/the-art-of-racing-in-the-rain/,2026-05-03
+Marley & Me,2008,Family|Comedy,115,3.43,262100.0,25513.0,USA,English,https://letterboxd.com/film/marley-me/,2026-05-03
+Little Women,1994,Romance|Drama,115,3.89,201566.0,46351.0,USA,English|English|German|French,https://letterboxd.com/film/little-women-1994/,2026-05-03
+My Family,1995,Comedy|Drama,128,3.71,4684.0,1057.0,UK|USA,English|English|Spanish,https://letterboxd.com/film/my-family/,2026-05-03
+Finding Neverland,2004,Fantasy|Drama,106,3.52,88878.0,4833.0,USA,English,https://letterboxd.com/film/finding-neverland/,2026-05-03
+Schindler’s List,1993,History|Drama|War,195,4.54,1376423.0,108238.0,USA,English|German|Polish|Hebrew (modern)|English,https://letterboxd.com/film/schindlers-list/,2026-05-03
+Gattaca,1997,Romance|Mystery|Thriller|Science Fiction,107,3.81,374570.0,56776.0,USA,English|English|Esperanto,https://letterboxd.com/film/gattaca/,2026-05-03
+Terms of Endearment,1983,Comedy|Drama,132,3.82,55845.0,11473.0,USA,English,https://letterboxd.com/film/terms-of-endearment/,2026-05-03
+Steel Magnolias,1989,Romance|Comedy|Drama,118,3.82,102240.0,29035.0,USA,English,https://letterboxd.com/film/steel-magnolias/,2026-05-03
+Invasion of the Body Snatchers,1978,Horror|Science Fiction,116,3.94,167662.0,43190.0,USA,English|English|French,https://letterboxd.com/film/invasion-of-the-body-snatchers-1978/,2026-05-03
+It’s My Party,1996,Drama,110,3.45,817.0,144.0,USA,English,https://letterboxd.com/film/its-my-party/,2026-05-03
+Longtime Companion,1989,Drama|Romance,99,3.65,2543.0,489.0,USA,English,https://letterboxd.com/film/longtime-companion/,2026-05-03
+The Candy Man,1969,Thriller|Crime|Drama,95,,,,USA,English,https://letterboxd.com/film/the-candy-man/,2026-05-03
+Oblivion,2013,Action|Adventure|Mystery|Science Fiction,124,3.14,302799.0,28961.0,USA,English,https://letterboxd.com/film/oblivion-2013/,2026-05-03
+Whale Rider,2002,Drama|Family,101,3.75,29919.0,4924.0,Germany|New Zealand,English|English|Māori,https://letterboxd.com/film/whale-rider/,2026-05-03
+The Incredible Journey,1963,Family|Adventure,80,3.29,5125.0,676.0,Canada|USA,English,https://letterboxd.com/film/the-incredible-journey/,2026-05-03
+Ghost,1990,Fantasy|Romance|Thriller,127,3.6,322010.0,50005.0,USA,English,https://letterboxd.com/film/ghost/,2026-05-03
+Forbidden Games,1952,Drama|War,87,4.09,13882.0,1958.0,France,French,https://letterboxd.com/film/forbidden-games-1952/,2026-05-03
+Bicycle Thieves,1948,Drama,89,4.29,270725.0,52020.0,Italy,Italian,https://letterboxd.com/film/bicycle-thieves/,2026-05-03
+Nights of Cabiria,1957,Drama|Comedy,110,4.41,84706.0,17090.0,Italy|France,Italian,https://letterboxd.com/film/nights-of-cabiria/,2026-05-03
+Billy Liar,1963,Romance|Comedy|Drama,98,3.73,7690.0,1398.0,UK,English,https://letterboxd.com/film/billy-liar/,2026-05-03
+Once,2007,Music|Drama|Romance,85,3.9,113223.0,18806.0,Ireland|USA,English|Czech|English,https://letterboxd.com/film/once/,2026-05-03
+Mister Johnson,1990,Drama,101,3.29,908.0,218.0,USA,English,https://letterboxd.com/film/mister-johnson/,2026-05-03
+Children of Heaven,1997,Drama|Family,88,4.22,57430.0,8971.0,Iran,Persian (Farsi),https://letterboxd.com/film/children-of-heaven/,2026-05-03
+West Side Story,1961,Romance|Drama|Crime,153,3.85,262396.0,39279.0,USA,English|Spanish|English,https://letterboxd.com/film/west-side-story/,2026-05-03
+Midnight Cowboy,1969,Drama,113,4.15,212068.0,51857.0,USA,English|English|Italian,https://letterboxd.com/film/midnight-cowboy/,2026-05-03
+Lion,2016,Drama,118,3.93,377926.0,37926.0,Australia|UK|USA,"English|Bengali, Bangla|English|Hindi",https://letterboxd.com/film/lion/,2026-05-03
+What Dreams May Come,1998,Fantasy|Drama|Romance,114,3.47,83428.0,8280.0,USA,English,https://letterboxd.com/film/what-dreams-may-come/,2026-05-03
+The Horse Whisperer,1998,Adventure|Drama|Romance,169,3.36,20782.0,1994.0,USA,English,https://letterboxd.com/film/the-horse-whisperer/,2026-05-03
+House of Sand and Fog,2003,Drama,126,3.57,22052.0,2264.0,USA|UK,English|English|Italian|Persian (Farsi),https://letterboxd.com/film/house-of-sand-and-fog/,2026-05-03
+The Trip to Bountiful,1985,Drama,108,3.51,2724.0,531.0,USA,English,https://letterboxd.com/film/the-trip-to-bountiful/,2026-05-03
+Imitation of Life,1959,Drama|Romance,125,4.01,31295.0,7440.0,USA,English,https://letterboxd.com/film/imitation-of-life-1959/,2026-05-03
+Cinema Paradiso,1988,Drama|Romance,155,4.51,486443.0,98732.0,Italy|France,Italian,https://letterboxd.com/film/cinema-paradiso/,2026-05-03
+Million Dollar Baby,2004,Drama,132,4.04,467449.0,52004.0,Switzerland|USA,English|Irish|English,https://letterboxd.com/film/million-dollar-baby/,2026-05-03
+My Left Foot: The Story of Christy Brown,1989,Drama,103,3.95,68425.0,8743.0,Ireland|UK,English,https://letterboxd.com/film/my-left-foot-the-story-of-christy-brown/,2026-05-03
+Bambi,1942,Drama|Animation|Family,69,3.55,431995.0,31044.0,USA,English,https://letterboxd.com/film/bambi/,2026-05-03
+The Sea Inside,2004,Drama,126,3.85,39037.0,3833.0,Spain|France|Italy,Spanish|Catalan|Spanish|Galician,https://letterboxd.com/film/the-sea-inside/,2026-05-03
+Kramer vs. Kramer,1979,Drama,105,4.09,191065.0,33399.0,USA,English,https://letterboxd.com/film/kramer-vs-kramer/,2026-05-03
+I Could Go on Singing,1963,Music|Drama,99,3.58,1179.0,347.0,UK,English,https://letterboxd.com/film/i-could-go-on-singing/,2026-05-03
+Out of Africa,1985,Drama|History|Romance,161,3.44,63528.0,9333.0,USA,English|English|Swahili,https://letterboxd.com/film/out-of-africa/,2026-05-03
+To Kill a Mockingbird,1962,Drama,129,4.1,261241.0,23327.0,USA,English,https://letterboxd.com/film/to-kill-a-mockingbird/,2026-05-03
+"Good Bye, Lenin!",2003,Comedy|Drama,121,3.89,169244.0,20559.0,Germany,German,https://letterboxd.com/film/good-bye-lenin/,2026-05-03
+Europa Europa,1990,Drama|History|War,112,3.81,14452.0,2221.0,France|Germany|Poland,German|French|Hebrew (modern)|German|Polish|Russian,https://letterboxd.com/film/europa-europa/,2026-05-03
+Floating Weeds,1959,Drama,115,4.11,19163.0,3867.0,Japan,Japanese,https://letterboxd.com/film/floating-weeds/,2026-05-03
+Up,2009,Adventure|Family|Animation|Comedy,96,4.1,2968533.0,123977.0,USA,English,https://letterboxd.com/film/up/,2026-05-03
+Toy Story 3,2010,Comedy|Family|Animation,102,4.01,1612171.0,94249.0,USA,English|English|Spanish,https://letterboxd.com/film/toy-story-3/,2026-05-03
+Ghost World,2001,Comedy|Drama,111,3.58,231012.0,55212.0,UK|USA|Germany,English,https://letterboxd.com/film/ghost-world/,2026-05-03
+The Night of the Hunter,1955,Drama|Crime|Thriller|Horror,93,4.26,236992.0,60964.0,USA,English,https://letterboxd.com/film/the-night-of-the-hunter/,2026-05-03
+Big Fish,2003,Drama|Fantasy|Adventure,125,3.94,560077.0,66933.0,USA,English,https://letterboxd.com/film/big-fish/,2026-05-03
+Citizen Ruth,1996,Comedy|Drama,104,3.65,15463.0,3897.0,USA,English,https://letterboxd.com/film/citizen-ruth/,2026-05-03
+The Crowd,1928,Romance|Drama,98,4.09,13473.0,3050.0,USA,No spoken language,https://letterboxd.com/film/the-crowd/,2026-05-03
+The Time Traveler’s Wife,2009,Fantasy|Drama|Romance,107,3.16,94764.0,14784.0,USA,English,https://letterboxd.com/film/the-time-travelers-wife/,2026-05-03
+The Champ,1931,Drama|Family,86,3.65,3573.0,800.0,USA,English,https://letterboxd.com/film/the-champ/,2026-05-03
+Father of the Bride,1991,Drama|Romance|Comedy,105,3.4,148163.0,32151.0,USA,English,https://letterboxd.com/film/father-of-the-bride-1991/,2026-05-03
+Father of the Bride,1950,Comedy|Drama|Romance,92,3.51,10045.0,1759.0,USA,English,https://letterboxd.com/film/father-of-the-bride/,2026-05-03
+The Other Side of the Mountain,1975,Romance|Drama,103,3.23,606.0,120.0,USA,English,https://letterboxd.com/film/the-other-side-of-the-mountain/,2026-05-03
+The Way We Were,1973,Romance|Drama,118,3.69,40258.0,12675.0,USA,English|French|English,https://letterboxd.com/film/the-way-we-were/,2026-05-03
+Splendor in the Grass,1961,Romance|Drama,124,3.9,22465.0,4993.0,USA,English,https://letterboxd.com/film/splendor-in-the-grass/,2026-05-03
+"Goodbye, Mr. Chips",1939,Drama|Romance,114,3.73,5466.0,970.0,UK,English|English|Italian,https://letterboxd.com/film/goodbye-mr-chips/,2026-05-03
+Love Affair,1939,Drama|Romance,88,3.7,10740.0,2986.0,USA,English|English|French,https://letterboxd.com/film/love-affair-1939/,2026-05-03
+Mrs. Miniver,1942,Romance|War|Drama,134,3.73,15450.0,3512.0,USA,English|German|English,https://letterboxd.com/film/mrs-miniver/,2026-05-03
+Kolya,1996,Drama|Comedy,105,3.8,6840.0,701.0,Czechia|UK|France,Czech|Slovak|Russian|Czech,https://letterboxd.com/film/kolya/,2026-05-03
+Sounder,1972,Drama,105,3.73,4037.0,828.0,USA,English,https://letterboxd.com/film/sounder/,2026-05-03
+Bent,1997,Romance|Drama|History,105,3.62,6317.0,1298.0,UK,English,https://letterboxd.com/film/bent/,2026-05-03
+Brian’s Song,1971,TV Movie|Drama,73,3.45,5830.0,854.0,USA,English,https://letterboxd.com/film/brians-song/,2026-05-03
+Bang the Drum Slowly,1973,Drama,96,3.24,3636.0,811.0,USA,English|English|Spanish,https://letterboxd.com/film/bang-the-drum-slowly/,2026-05-03
+An Affair to Remember,1957,Romance|Drama,111,3.8,38998.0,9381.0,USA,English|English|French|Italian,https://letterboxd.com/film/an-affair-to-remember/,2026-05-03
+Wuthering Heights,1939,Drama|Romance,104,3.62,36472.0,11403.0,USA,English,https://letterboxd.com/film/wuthering-heights/,2026-05-03
+"Now, Voyager",1942,Romance|Drama,117,3.94,24173.0,6758.0,USA,English|English|Portuguese,https://letterboxd.com/film/now-voyager/,2026-05-03
+The Green Mile,1999,Drama|Crime|Fantasy,189,4.28,1298858.0,108749.0,USA,English|French|English,https://letterboxd.com/film/the-green-mile/,2026-05-03
+Cast Away,2000,Drama|Adventure,143,3.89,837764.0,65439.0,USA,English|Russian|English,https://letterboxd.com/film/cast-away/,2026-05-03
+It’s a Wonderful Life,1946,Family|Fantasy|Drama,130,4.44,744995.0,202255.0,USA,English,https://letterboxd.com/film/its-a-wonderful-life/,2026-05-03
+Hachiko,1987,Family|Drama|History,107,3.98,9962.0,1581.0,Japan,Japanese,https://letterboxd.com/film/hachiko/,2026-05-03
+Dear Zachary: A Letter to a Son About His Father,2008,Documentary|Crime,94,4.4,95863.0,27688.0,USA,English,https://letterboxd.com/film/dear-zachary-a-letter-to-a-son-about-his-father/,2026-05-03
+Seven Pounds,2008,Drama,123,3.5,147621.0,10191.0,USA,English|English|Spanish,https://letterboxd.com/film/seven-pounds/,2026-05-03
+City Lights,1931,Drama|Comedy|Romance,87,4.33,183955.0,30388.0,USA,No spoken language,https://letterboxd.com/film/city-lights/,2026-05-03
+Beasts of the Southern Wild,2012,Fantasy|Drama,93,3.78,72454.0,8135.0,Canada|USA,English,https://letterboxd.com/film/beasts-of-the-southern-wild/,2026-05-03
+The Shawshank Redemption,1994,Crime|Drama,142,4.59,2748182.0,283787.0,USA,English,https://letterboxd.com/film/the-shawshank-redemption/,2026-05-03
+The Road,2009,Drama|Adventure,111,3.66,197148.0,23293.0,USA,English,https://letterboxd.com/film/the-road/,2026-05-03
+Dead Poets Society,1989,Drama,129,4.35,3536170.0,776455.0,USA,English|English|Latin,https://letterboxd.com/film/dead-poets-society/,2026-05-03
+Jack,1996,Family|Drama|Comedy,113,2.83,58588.0,6045.0,USA,English,https://letterboxd.com/film/jack-1996/,2026-05-03
+Magnolia,1999,Drama,189,4.22,574519.0,139072.0,USA,English|English|French|German,https://letterboxd.com/film/magnolia/,2026-05-03
+Leaving Las Vegas,1995,Drama|Romance,111,3.74,101662.0,18440.0,France|UK,English|English|Italian|Russian,https://letterboxd.com/film/leaving-las-vegas/,2026-05-03
+Angels in America,2003,Drama,352,4.27,23220.0,5022.0,USA,English|English|Hebrew (modern)|Yiddish,https://letterboxd.com/film/angels-in-america/,2026-05-03
+Dances with Wolves,1990,Western|Drama|Adventure,181,3.92,162161.0,18136.0,UK|USA,English,https://letterboxd.com/film/dances-with-wolves/,2026-05-03
+Turner & Hooch,1989,Thriller|Family|Action|Comedy|Crime,99,3.11,56785.0,5010.0,USA,English,https://letterboxd.com/film/turner-hooch/,2026-05-03
+My Dog Skip,2000,Family|Comedy|Drama,95,3.23,11690.0,776.0,USA,English,https://letterboxd.com/film/my-dog-skip/,2026-05-03
+Where the Red Fern Grows,1974,Family|Drama,97,3.32,4602.0,646.0,USA,English,https://letterboxd.com/film/where-the-red-fern-grows/,2026-05-03
+Pay It Forward,2000,Drama,122,3.17,58912.0,4710.0,USA,English,https://letterboxd.com/film/pay-it-forward/,2026-05-03
+The Champ,1979,Drama,121,3.45,5130.0,668.0,USA,English,https://letterboxd.com/film/the-champ-1979/,2026-05-03
+Philadelphia,1993,Drama,126,3.94,215462.0,25061.0,USA,English,https://letterboxd.com/film/philadelphia/,2026-05-03
+Hotel Rwanda,2004,History|Drama|War,122,3.86,142970.0,10747.0,USA|UK|Italy|South Africa,English|English|French,https://letterboxd.com/film/hotel-rwanda/,2026-05-03
+Boyz n the Hood,1991,Drama|Crime,112,4.05,314187.0,42287.0,USA,English,https://letterboxd.com/film/boyz-n-the-hood/,2026-05-03
+Rabbit Hole,2010,Drama,91,3.53,21833.0,2799.0,USA,English,https://letterboxd.com/film/rabbit-hole/,2026-05-03
+Fruitvale Station,2013,Drama,82,3.99,153840.0,27585.0,USA,English|English|Spanish,https://letterboxd.com/film/fruitvale-station/,2026-05-03
+Mr. Holland’s Opus,1995,Drama|Music,143,3.5,25639.0,3632.0,USA,English,https://letterboxd.com/film/mr-hollands-opus/,2026-05-03
+Rudy,1993,Drama|History,114,3.57,67595.0,8827.0,USA,English|English|Spanish,https://letterboxd.com/film/rudy/,2026-05-03
+The Ice Storm,1997,Drama,113,3.76,52768.0,10719.0,France|USA,English,https://letterboxd.com/film/the-ice-storm/,2026-05-03
+Watership Down,1978,Animation|Drama|Adventure,92,3.89,77951.0,17994.0,UK,English,https://letterboxd.com/film/watership-down/,2026-05-03
+The Kid,1921,Drama|Comedy,68,4.21,132774.0,21312.0,USA,No spoken language,https://letterboxd.com/film/the-kid/,2026-05-03
+Nothing in Common,1986,Drama|Comedy|Romance,118,2.92,3876.0,469.0,USA,English,https://letterboxd.com/film/nothing-in-common/,2026-05-03
+The Elephant Man,1980,History|Drama,124,4.3,426829.0,82317.0,USA,English,https://letterboxd.com/film/the-elephant-man/,2026-05-03
+The Wrestler,2008,Drama|Romance,109,4.08,226661.0,26212.0,USA|France,English,https://letterboxd.com/film/the-wrestler/,2026-05-03
+American Beauty,1999,Drama,122,3.95,1174654.0,135060.0,USA,English,https://letterboxd.com/film/american-beauty/,2026-05-03
