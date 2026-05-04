@@ -1,0 +1,73 @@
+film_title,year,genre,runtime_mins,avg_rating,num_ratings,num_reviews,country,language,letterboxd_url,date_scraped
+The Exorcist,1973,Horror|Drama,122,3.95,992827,153402,USA,English|German|French|Latin|Arabic|Greek (modern)|English,https://letterboxd.com/film/the-exorcist/,2026-05-04
+Carrie,1976,Horror|Thriller,98,3.84,877515,188560,USA,English,https://letterboxd.com/film/carrie-1976/,2026-05-04
+The Texas Chain Saw Massacre,1974,Horror,83,3.78,911537,224892,USA,English,https://letterboxd.com/film/the-texas-chain-saw-massacre/,2026-05-04
+Saw,2004,Crime|Mystery|Horror,103,3.67,1120881,215138,USA,English,https://letterboxd.com/film/saw/,2026-05-04
+The Long Walk,2025,Horror|Science Fiction|Thriller,108,3.51,845257,331327,USA,English,https://letterboxd.com/film/the-long-walk-2025/,2026-05-04
+Godzilla Minus One,2023,Horror|Science Fiction|Action,125,4.07,884137,280788,Japan,Japanese|English|Japanese,https://letterboxd.com/film/godzilla-minus-one/,2026-05-04
+mother!,2017,Drama|Horror,121,3.49,853104,156622,USA,English,https://letterboxd.com/film/mother-2017/,2026-05-04
+Smile 2,2024,Mystery|Horror|Music,127,3.2,978910,324738,USA,English,https://letterboxd.com/film/smile-2-2024/,2026-05-04
+Late Night with the Devil,2023,Horror,93,3.36,893224,270302,Australia|United Arab Emirates|USA,English,https://letterboxd.com/film/late-night-with-the-devil/,2026-05-04
+The Blair Witch Project,1999,Mystery|Horror,81,3.26,973979,183827,USA,English,https://letterboxd.com/film/the-blair-witch-project/,2026-05-04
+A Quiet Place: Day One,2024,Horror|Thriller|Science Fiction,100,3.13,937525,283816,USA,English,https://letterboxd.com/film/a-quiet-place-day-one/,2026-05-04
+Zombieland,2009,Comedy|Horror,87,3.52,1170180,105191,USA,English,https://letterboxd.com/film/zombieland/,2026-05-04
+Together,2025,Horror|Romance,102,3.27,743805,311250,Australia|USA,English,https://letterboxd.com/film/together-2025/,2026-05-04
+Annihilation,2018,Science Fiction|Horror,115,3.57,934571,146603,UK|USA,English,https://letterboxd.com/film/annihilation/,2026-05-04
+The Conjuring: Last Rites,2025,Horror,136,2.78,897318,317326,USA,English,https://letterboxd.com/film/the-conjuring-last-rites/,2026-05-04
+Five Nights at Freddy’s,2023,Horror|Thriller,110,2.57,1514162,468847,USA,English,https://letterboxd.com/film/five-nights-at-freddys/,2026-05-04
+Talk to Me,2022,Fantasy|Horror,95,3.47,1397403,371753,Australia|UK,English|French|Greek (modern)|English,https://letterboxd.com/film/talk-to-me-2022/,2026-05-04
+The Sixth Sense,1999,Thriller|Mystery|Horror|Drama,107,4.09,1345419,170521,USA,English|English|Latin|Spanish,https://letterboxd.com/film/the-sixth-sense/,2026-05-04
+The Black Phone,2021,Thriller|Horror,103,3.31,1483430,292742,USA,English|English|Portuguese|Spanish,https://letterboxd.com/film/the-black-phone/,2026-05-04
+Alien: Romulus,2024,Science Fiction|Horror,119,3.58,1220552,394450,USA,English|Danish|English|Dutch,https://letterboxd.com/film/alien-romulus/,2026-05-04
+Bodies Bodies Bodies,2022,Comedy|Mystery|Horror|Thriller,94,3.27,1162708,399467,USA|France,English,https://letterboxd.com/film/bodies-bodies-bodies/,2026-05-04
+Ready or Not,2019,Horror|Comedy,95,3.5,1253548,299768,USA,English,https://letterboxd.com/film/ready-or-not-2019/,2026-05-04
+Smile,2022,Horror|Mystery,115,2.86,1437130,297782,USA,English,https://letterboxd.com/film/smile-2022/,2026-05-04
+Final Destination Bloodlines,2025,Mystery|Horror,110,3.21,1148908,401438,USA,English,https://letterboxd.com/film/final-destination-bloodlines/,2026-05-04
+I Saw the TV Glow,2024,Drama|Horror,100,3.52,800999,363309,USA,English,https://letterboxd.com/film/i-saw-the-tv-glow/,2026-05-04
+Train to Busan,2016,Thriller|Horror|Adventure|Action,118,3.98,1174321,174108,South Korea,Korean,https://letterboxd.com/film/train-to-busan/,2026-05-04
+Bring Her Back,2025,Horror,104,3.68,962442,375412,Australia|USA,English,https://letterboxd.com/film/bring-her-back/,2026-05-04
+It Chapter Two,2019,Drama|Thriller|Horror,169,2.93,1416547,183982,USA,English,https://letterboxd.com/film/it-chapter-two/,2026-05-04
+Shaun of the Dead,2004,Horror|Comedy,99,3.94,1203452,155774,UK,English,https://letterboxd.com/film/shaun-of-the-dead/,2026-05-04
+Last Night in Soho,2021,Horror|Mystery,117,3.44,959250,221054,UK|USA|China,English,https://letterboxd.com/film/last-night-in-soho/,2026-05-04
+MaXXXine,2024,Horror|Thriller,103,3.08,914564,311268,USA,English,https://letterboxd.com/film/maxxxine/,2026-05-04
+Halloween,1978,Thriller|Horror,91,3.76,1081158,201688,USA,English,https://letterboxd.com/film/halloween-1978/,2026-05-04
+Trap,2024,Crime|Thriller|Horror,105,2.61,1034454,369717,USA,English,https://letterboxd.com/film/trap-2024/,2026-05-04
+The Rocky Horror Picture Show,1975,Horror|Comedy|Science Fiction,100,4.05,826434,250815,UK|USA,English|German|English,https://letterboxd.com/film/the-rocky-horror-picture-show/,2026-05-04
+Sinners,2025,Thriller|Action|Horror,138,4.1,4324248,1579456,USA,English|English|Chinese|Yoruba,https://letterboxd.com/film/sinners-2025/,2026-05-04
+The Substance,2024,Horror|Science Fiction,141,3.73,3480201,1221026,France|UK|USA,English,https://letterboxd.com/film/the-substance/,2026-05-04
+Get Out,2017,Horror|Mystery|Thriller,104,4.14,4344920,473440,USA,English,https://letterboxd.com/film/get-out-2017/,2026-05-04
+Midsommar,2019,Mystery|Drama|Horror,147,3.75,3673656,569335,Sweden|USA,English|English|Swedish,https://letterboxd.com/film/midsommar/,2026-05-04
+American Psycho,2000,Crime|Drama|Thriller|Horror,102,3.77,3741346,544009,Canada|USA,English|English|Spanish|Cantonese,https://letterboxd.com/film/american-psycho/,2026-05-04
+Black Swan,2010,Drama|Thriller|Horror,108,4.17,3051891,513614,USA,English|English|French|Italian,https://letterboxd.com/film/black-swan/,2026-05-04
+The Silence of the Lambs,1991,Crime|Thriller|Horror|Drama,119,4.34,3016785,398153,USA,English,https://letterboxd.com/film/the-silence-of-the-lambs/,2026-05-04
+The Shining,1980,Horror|Thriller,144,4.22,3110282,420484,UK|USA,English,https://letterboxd.com/film/the-shining/,2026-05-04
+Weapons,2025,Horror|Mystery,129,3.61,2856947,1051253,USA,English,https://letterboxd.com/film/weapons-2025/,2026-05-04
+Nosferatu,2024,Fantasy|Horror,133,3.66,2559609,976835,USA,English|English|German|Latin|Romanian|Russian,https://letterboxd.com/film/nosferatu-2024/,2026-05-04
+Frankenstein,2025,Fantasy|Drama|Horror|Science Fiction,150,3.82,2502653,919418,USA|Canada,English|Danish|English|French,https://letterboxd.com/film/frankenstein-2025/,2026-05-04
+The Menu,2022,Comedy|Horror,107,3.52,3057282,607723,USA,English|English|Spanish,https://letterboxd.com/film/the-menu-2022/,2026-05-04
+Coraline,2009,Animation|Horror|Fantasy|Family,100,4.19,2763981,392356,USA,English,https://letterboxd.com/film/coraline/,2026-05-04
+Hereditary,2018,Thriller|Horror|Mystery,128,3.93,2607806,434859,USA|UK,English,https://letterboxd.com/film/hereditary/,2026-05-04
+Pearl,2022,Horror|Thriller,102,3.7,1968877,532330,USA,English|English|German,https://letterboxd.com/film/pearl-2022/,2026-05-04
+It,2017,Drama|Thriller|Horror,135,3.46,2773810,303525,USA,English,https://letterboxd.com/film/it-2017/,2026-05-04
+Scream,1996,Mystery|Crime|Horror,112,4.02,2154512,480754,USA,English,https://letterboxd.com/film/scream/,2026-05-04
+Us,2019,Horror|Mystery,116,3.63,2311013,298120,USA,English,https://letterboxd.com/film/us-2019/,2026-05-04
+Nope,2022,Science Fiction|Horror,130,3.67,2043648,436882,USA,English|English|Portuguese|Spanish,https://letterboxd.com/film/nope/,2026-05-04
+Longlegs,2024,Crime|Horror|Mystery,101,3.29,1777863,614446,Canada|USA,English,https://letterboxd.com/film/longlegs/,2026-05-04
+Alien,1979,Horror|Science Fiction,117,4.25,1844960,313944,USA|UK,English|English|Spanish,https://letterboxd.com/film/alien/,2026-05-04
+The Lighthouse,2019,Thriller|Fantasy|Horror|Drama,109,4.01,1509746,309077,Brazil|USA,English,https://letterboxd.com/film/the-lighthouse-2019/,2026-05-04
+X,2022,Horror|Thriller,106,3.4,1681621,414882,USA,English,https://letterboxd.com/film/x-2022/,2026-05-04
+Perfect Blue,1997,Thriller|Animation|Horror,82,4.38,1194848,301716,Japan,Japanese,https://letterboxd.com/film/perfect-blue/,2026-05-04
+Companion,2025,Thriller|Science Fiction|Horror,97,3.37,1426299,513565,USA,English|Russian|German|Chinese|English|Spanish,https://letterboxd.com/film/companion-2025/,2026-05-04
+Jaws,1975,Adventure|Thriller|Horror,124,3.92,1667493,263282,USA,English,https://letterboxd.com/film/jaws/,2026-05-04
+Psycho,1960,Mystery|Thriller|Horror,109,4.31,1343609,202499,USA,English,https://letterboxd.com/film/psycho/,2026-05-04
+Bones and All,2022,Horror|Drama|Romance,131,3.74,1205039,439233,Italy|USA,English,https://letterboxd.com/film/bones-and-all/,2026-05-04
+A Quiet Place,2018,Drama|Science Fiction|Horror,91,3.64,1943241,162930,USA,English,https://letterboxd.com/film/a-quiet-place-2018/,2026-05-04
+Jennifer’s Body,2009,Horror|Comedy,107,3.46,1427822,329778,USA,English|Spanish|English,https://letterboxd.com/film/jennifers-body/,2026-05-04
+The Thing,1982,Mystery|Science Fiction|Horror,109,4.35,1268827,296852,USA,English|English|Norwegian,https://letterboxd.com/film/the-thing/,2026-05-04
+Barbarian,2022,Horror|Mystery,103,3.44,1506378,413843,USA,English|English|Spanish,https://letterboxd.com/film/barbarian-2022/,2026-05-04
+The Conjuring,2013,Horror|Thriller,112,3.62,1817710,229055,USA,English,https://letterboxd.com/film/the-conjuring/,2026-05-04
+The Witch,2015,Horror,92,3.82,1458900,247123,Brazil|Canada|UK|USA,English,https://letterboxd.com/film/the-witch-2015/,2026-05-04
+Split,2016,Horror|Thriller,117,3.52,1806585,164100,USA,English,https://letterboxd.com/film/split-2016/,2026-05-04
+28 Days Later,2002,Science Fiction|Horror|Thriller,113,3.72,1365023,318907,UK,English|Spanish|English,https://letterboxd.com/film/28-days-later/,2026-05-04
+28 Years Later,2025,Science Fiction|Thriller|Horror,115,3.44,1281677,468041,UK|USA,English|English|Swedish,https://letterboxd.com/film/28-years-later/,2026-05-04
+Heretic,2024,Thriller|Horror,111,3.32,1294992,424610,USA,English,https://letterboxd.com/film/heretic-2024/,2026-05-04
