@@ -1,0 +1,173 @@
+[
+  {
+    "movie_id": 1,
+    "release_decade": 1970,
+    "production_companies": [
+      {
+        "name": "Paramount Pictures",
+        "id": 4
+      },
+      {
+        "name": "Alfran Productions",
+        "id": 10211
+      },
+      {
+        "name": "ASR Productions",
+        "id": 16311
+      }
+    ],
+    "production_countries": [
+      "united states of america"
+    ],
+    "revenue": 245066411,
+    "profit": 239066411,
+    "movie_age": 54,
+    "release_date": "1972-03-14",
+    "budget": 6000000,
+    "name": "The Godfather",
+    "tmdb_id": "238",
+    "release_year": 1972,
+    "production_country_group": [
+      "North America"
+    ],
+    "runtime": 175,
+    "in_franchise": true,
+    "belongs_to_collection": {
+      "name": "The Godfather Collection",
+      "id": 230
+    },
+    "original_language": "en"
+  },
+  {
+    "movie_id": 2,
+    "release_decade": 2010,
+    "production_companies": [
+      {
+        "name": "Barunson E&A",
+        "id": 4399
+      }
+    ],
+    "production_countries": [
+      "south korea"
+    ],
+    "revenue": 257591776,
+    "profit": 246228776,
+    "movie_age": 7,
+    "release_date": "2019-05-30",
+    "budget": 11363000,
+    "name": "Parasite",
+    "tmdb_id": "496243",
+    "release_year": 2019,
+    "production_country_group": [
+      "Asia"
+    ],
+    "runtime": 133,
+    "in_franchise": false,
+    "original_language": "ko"
+  },
+  {
+    "movie_id": 3,
+    "release_decade": 1950,
+    "production_companies": [
+      {
+        "name": "TOHO",
+        "id": 882
+      }
+    ],
+    "production_countries": [
+      "japan"
+    ],
+    "revenue": 105000000,
+    "profit": 103000000,
+    "movie_age": 72,
+    "release_date": "1954-04-26",
+    "budget": 2000000,
+    "name": "Seven Samurai",
+    "tmdb_id": "346",
+    "release_year": 1954,
+    "production_country_group": [
+      "Asia"
+    ],
+    "runtime": 207,
+    "in_franchise": false,
+    "original_language": "ja"
+  },
+  {
+    "movie_id": 4,
+    "release_decade": 1960,
+    "production_companies": [
+      {
+        "name": "Stanley Kubrick Productions",
+        "id": 385
+      },
+      {
+        "name": "Metro-Goldwyn-Mayer",
+        "id": 21
+      }
+    ],
+    "production_countries": [
+      "united kingdom",
+      "united states of america"
+    ],
+    "revenue": 71923560,
+    "profit": 59923560,
+    "movie_age": 58,
+    "release_date": "1968-04-02",
+    "budget": 12000000,
+    "name": "2001: A Space Odyssey",
+    "tmdb_id": "62",
+    "release_year": 1968,
+    "production_country_group": [
+      "Europe",
+      "North America"
+    ],
+    "runtime": 149,
+    "in_franchise": true,
+    "belongs_to_collection": {
+      "name": "The Space Odyssey Series",
+      "id": 4438
+    },
+    "original_language": "en"
+  },
+  {
+    "movie_id": 5,
+    "release_decade": 2000,
+    "production_companies": [
+      {
+        "name": "StudioCanal",
+        "id": 694
+      },
+      {
+        "name": "Les Films Alain Sarde",
+        "id": 635
+      },
+      {
+        "name": "Asymmetrical Productions",
+        "id": 373
+      },
+      {
+        "name": "Babbo",
+        "id": 636
+      }
+    ],
+    "production_countries": [
+      "france",
+      "united states of america"
+    ],
+    "revenue": 20289986,
+    "profit": 5289986,
+    "movie_age": 25,
+    "release_date": "2001-06-06",
+    "budget": 15000000,
+    "name": "Mulholland Drive",
+    "tmdb_id": "1018",
+    "release_year": 2001,
+    "production_country_group": [
+      "Europe",
+      "North America"
+    ],
+    "runtime": 147,
+    "in_franchise": false,
+    "original_language": "en"
+  }
+]
