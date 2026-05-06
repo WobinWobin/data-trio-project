@@ -9,7 +9,7 @@ import re
 import time
 from typing import Optional
 
-import requests
+from curl_cffi import requests
 from bs4 import BeautifulSoup
 
 LBX_BASE = "https://letterboxd.com"
@@ -29,8 +29,8 @@ _SESSION: Optional[requests.Session] = None
 def _session() -> requests.Session:
     global _SESSION
     if _SESSION is None:
-        s = requests.Session()
-        s.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "en-US,en;q=0.9"})
+        s = requests.Session(impersonate="chrome124")
+        s.headers.update({"Accept-Language": "en-US,en;q=0.9"})
         _SESSION = s
     return _SESSION
 
