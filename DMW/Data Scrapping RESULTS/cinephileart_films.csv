@@ -1,0 +1,73 @@
+film_title,year,genre,runtime_mins,avg_rating,num_ratings,num_reviews,country,language,letterboxd_url,date_scraped
+Jojo Rabbit,2019,War|Comedy|Drama,108,4.04,2204982,252313,New Zealand|USA,English|English|German,https://letterboxd.com/film/jojo-rabbit/,2026-05-04
+Hamnet,2025,History|Drama|Romance,125,4.19,1490383,657168,UK|USA,English,https://letterboxd.com/film/hamnet/,2026-05-04
+Soul,2020,Music|Drama|Family|Animation|Fantasy,101,3.94,2367451,266444,USA,English,https://letterboxd.com/film/soul-2020/,2026-05-04
+Requiem for a Dream,2000,Drama|Crime,102,4.1,1617033,307746,USA,English,https://letterboxd.com/film/requiem-for-a-dream/,2026-05-04
+Drive,2011,Thriller|Drama|Crime,100,3.91,1883887,266495,USA,English,https://letterboxd.com/film/drive-2011/,2026-05-04
+Twilight,2008,Drama|Fantasy|Romance,122,3.08,2177773,542629,UK|USA,English,https://letterboxd.com/film/twilight-2008/,2026-05-04
+F1,2025,Drama|Action,156,3.64,1845677,630432,USA,English|Danish|English|German|Spanish,https://letterboxd.com/film/f1/,2026-05-04
+The Holdovers,2023,Drama|Comedy,133,4.25,1565975,556034,USA,English,https://letterboxd.com/film/the-holdovers/,2026-05-04
+Top Gun: Maverick,2022,Action|Drama,131,3.97,2167679,395755,USA,English,https://letterboxd.com/film/top-gun-maverick/,2026-05-04
+Don’t Look Up,2021,Drama|Science Fiction|Comedy,138,3.03,2407982,290472,USA,English,https://letterboxd.com/film/dont-look-up-2021/,2026-05-04
+Before Sunrise,1995,Romance|Drama,101,4.3,1433354,410386,Austria|USA,English|English|German|French,https://letterboxd.com/film/before-sunrise/,2026-05-04
+Beautiful Boy,2018,Drama,121,4.06,1616499,396388,USA,English,https://letterboxd.com/film/beautiful-boy-2018/,2026-05-04
+Brokeback Mountain,2005,Drama|Romance,134,4.16,1517917,405541,Canada|USA,English,https://letterboxd.com/film/brokeback-mountain/,2026-05-04
+The Breakfast Club,1985,Drama|Comedy,98,3.76,1936451,210740,USA,English,https://letterboxd.com/film/the-breakfast-club/,2026-05-04
+Gladiator,2000,Action|Adventure|Drama,155,4.18,2075692,271573,UK|USA,English,https://letterboxd.com/film/gladiator-2000/,2026-05-04
+Interstellar,2014,Science Fiction|Drama|Adventure,169,4.44,5612979,882941,UK|USA,English,https://letterboxd.com/film/interstellar/,2026-05-04
+Parasite,2019,Thriller|Comedy|Drama,133,4.53,5317372,699676,South Korea,Korean|English|German|Korean,https://letterboxd.com/film/parasite-2019/,2026-05-04
+Fight Club,1999,Drama|Thriller,139,4.27,5327860,722448,Germany|USA,English,https://letterboxd.com/film/fight-club/,2026-05-04
+La La Land,2016,Drama|Comedy|Romance,129,4.12,4638044,993198,USA,English,https://letterboxd.com/film/la-la-land/,2026-05-04
+Whiplash,2014,Drama|Music|Thriller,107,4.42,4313601,756259,USA,English,https://letterboxd.com/film/whiplash-2014/,2026-05-04
+The Truman Show,1998,Comedy|Drama,103,4.22,4634685,511020,USA,English|Japanese|English|Italian|Spanish,https://letterboxd.com/film/the-truman-show/,2026-05-04
+Dead Poets Society,1989,Drama,129,4.35,3539374,777188,USA,English|English|Latin,https://letterboxd.com/film/dead-poets-society/,2026-05-04
+Oppenheimer,2023,Drama|History,181,4.16,4173940,815481,UK|USA,English|Dutch|English,https://letterboxd.com/film/oppenheimer-2023/,2026-05-04
+Eternal Sunshine of the Spotless Mind,2004,Science Fiction|Romance|Drama,108,4.24,3458103,695200,USA,English,https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/,2026-05-04
+10 Things I Hate About You,1999,Comedy|Drama|Romance,97,4.05,3823425,715729,USA,English|English|French,https://letterboxd.com/film/10-things-i-hate-about-you/,2026-05-04
+Joker,2019,Drama|Thriller|Crime,122,3.84,4532721,353383,Canada|USA,English,https://letterboxd.com/film/joker-2019/,2026-05-04
+Midsommar,2019,Mystery|Drama|Horror,147,3.75,3673328,569259,Sweden|USA,English|English|Swedish,https://letterboxd.com/film/midsommar/,2026-05-04
+American Psycho,2000,Crime|Drama|Thriller|Horror,102,3.77,3740828,543916,Canada|USA,English|English|Spanish|Cantonese,https://letterboxd.com/film/american-psycho/,2026-05-04
+The Wolf of Wall Street,2013,Comedy|Drama|Crime,180,4.0,3928348,341506,USA,English|English|French,https://letterboxd.com/film/the-wolf-of-wall-street/,2026-05-04
+Forrest Gump,1994,Drama|Romance|Comedy,142,4.18,3830840,302696,USA,English,https://letterboxd.com/film/forrest-gump/,2026-05-04
+The Grand Budapest Hotel,2014,Comedy|Drama,100,4.24,3102743,460192,USA|Germany,English|English|French,https://letterboxd.com/film/the-grand-budapest-hotel/,2026-05-04
+Good Will Hunting,1997,Drama,127,4.38,3169161,502650,USA,English,https://letterboxd.com/film/good-will-hunting/,2026-05-04
+Black Swan,2010,Drama|Thriller|Horror,108,4.17,3051516,513535,USA,English|English|French|Italian,https://letterboxd.com/film/black-swan/,2026-05-04
+Marty Supreme,2025,Thriller|Drama,150,4.08,2608742,1142566,USA,English|English|Japanese,https://letterboxd.com/film/marty-supreme/,2026-05-04
+Mean Girls,2004,Comedy|Drama,97,3.82,3080875,387217,USA,English|Swahili|English|German|Vietnamese,https://letterboxd.com/film/mean-girls/,2026-05-04
+Taxi Driver,1976,Crime|Drama,114,4.11,2316613,330767,USA,English|English|Spanish,https://letterboxd.com/film/taxi-driver/,2026-05-04
+Titanic,1997,Drama|Romance,194,3.83,3104870,267049,USA,English|English|French|German|Swedish|Italian|Russian,https://letterboxd.com/film/titanic-1997/,2026-05-04
+Little Miss Sunshine,2006,Drama|Comedy,102,4.21,2201645,467418,USA,English,https://letterboxd.com/film/little-miss-sunshine/,2026-05-04
+Donnie Darko,2001,Drama|Fantasy|Mystery,42,3.97,2274467,436282,USA,English,https://letterboxd.com/film/donnie-darko/,2026-05-04
+The Notebook,2004,Romance|Drama,123,3.87,2512910,487484,USA,English,https://letterboxd.com/film/the-notebook/,2026-05-04
+The Social Network,2010,Drama,121,3.93,2628574,324372,USA,English,https://letterboxd.com/film/the-social-network/,2026-05-04
+Inside Out,2015,Animation|Adventure|Comedy|Family|Drama,95,3.83,3126670,186564,USA,English,https://letterboxd.com/film/inside-out-2015/,2026-05-04
+Her,2013,Science Fiction|Romance|Drama,126,3.97,2163627,321744,USA,English,https://letterboxd.com/film/her/,2026-05-04
+Arrival,2016,Mystery|Science Fiction|Drama,116,4.14,2469701,330029,USA,English|Chinese|English|Russian,https://letterboxd.com/film/arrival-2016/,2026-05-04
+Pride & Prejudice,2005,Drama|Romance,128,4.14,2079349,538238,France|UK|USA,English,https://letterboxd.com/film/pride-prejudice/,2026-05-04
+GoodFellas,1990,Crime|Drama,145,4.46,2110075,286978,USA,English|Italian|English,https://letterboxd.com/film/goodfellas/,2026-05-04
+Past Lives,2023,Drama|Romance,106,4.16,1740922,593060,USA|South Korea,English|English|Korean,https://letterboxd.com/film/past-lives/,2026-05-04
+Aftersun,2022,Drama,101,4.21,1553817,533809,UK|USA,English|Turkish|English|Spanish,https://letterboxd.com/film/aftersun/,2026-05-04
+Blade Runner 2049,2017,Science Fiction|Drama,164,4.1,2136116,285429,Canada|UK|USA,English|English|Finnish|Hungarian|Japanese|Russian|Somali|Spanish,https://letterboxd.com/film/blade-runner-2049/,2026-05-04
+Conclave,2024,Drama|Thriller,120,3.92,1906709,657959,UK|USA,English|English|Italian|Latin|Spanish,https://letterboxd.com/film/conclave/,2026-05-04
+It,2017,Drama|Thriller|Horror,135,3.46,2773502,303477,USA,English,https://letterboxd.com/film/it-2017/,2026-05-04
+Prisoners,2013,Thriller|Crime|Drama,153,4.33,2187159,315038,USA,English,https://letterboxd.com/film/prisoners/,2026-05-04
+Catch Me If You Can,2002,Drama|Crime,141,4.05,2386718,225706,USA,English|English|French,https://letterboxd.com/film/catch-me-if-you-can-2002/,2026-05-04
+Inglourious Basterds,2009,War|Drama|Thriller,153,4.36,3548642,428812,Germany|USA,English|German|English|French|Italian,https://letterboxd.com/film/inglourious-basterds/,2026-05-04
+The Perks of Being a Wallflower,2012,Drama,103,4.02,3124756,611453,USA,English,https://letterboxd.com/film/the-perks-of-being-a-wallflower/,2026-05-04
+Challengers,2024,Romance|Drama,132,3.83,2766056,1043573,Italy|USA,English|English|Romanian,https://letterboxd.com/film/challengers/,2026-05-04
+The Silence of the Lambs,1991,Crime|Thriller|Horror|Drama,119,4.34,3016365,398059,USA,English,https://letterboxd.com/film/the-silence-of-the-lambs/,2026-05-04
+(500) Days of Summer,2009,Romance|Comedy|Drama,95,3.65,3016999,686407,USA,English|English|French|Swedish,https://letterboxd.com/film/500-days-of-summer/,2026-05-04
+Lady Bird,2017,Comedy|Drama,94,3.82,2989272,516804,USA,English,https://letterboxd.com/film/lady-bird/,2026-05-04
+Saltburn,2023,Comedy|Drama|Thriller,131,3.36,3074989,891870,UK|USA,English,https://letterboxd.com/film/saltburn/,2026-05-04
+Shutter Island,2010,Mystery|Drama|Thriller,138,4.18,3345659,347665,USA,English|English|German,https://letterboxd.com/film/shutter-island/,2026-05-04
+Call Me by Your Name,2017,Romance|Drama,132,3.85,2956833,600346,Brazil|France|Italy|USA,English|French|English|Italian,https://letterboxd.com/film/call-me-by-your-name/,2026-05-04
+Little Women,2019,Drama|Romance,135,4.18,2783754,559106,USA,English|French|English,https://letterboxd.com/film/little-women-2019/,2026-05-04
+The Godfather,1972,Crime|Drama,175,4.52,2648348,377397,USA,English|Latin|English|Italian,https://letterboxd.com/film/the-godfather/,2026-05-04
+Gone Girl,2014,Drama|Mystery|Thriller,149,4.07,3037783,456716,USA,English,https://letterboxd.com/film/gone-girl/,2026-05-04
+Frankenstein,2025,Fantasy|Drama|Horror|Science Fiction,150,3.82,2502290,919361,USA|Canada,English|Danish|English|French,https://letterboxd.com/film/frankenstein-2025/,2026-05-04
+Once Upon a Time… in Hollywood,2019,Thriller|Drama|Comedy,162,3.77,3059474,383984,China|UK|USA,English|English|Italian|Spanish,https://letterboxd.com/film/once-upon-a-time-in-hollywood/,2026-05-04
+Wicked,2024,Romance|Drama|Fantasy,162,3.77,2673850,1040904,USA,English,https://letterboxd.com/film/wicked-2024/,2026-05-04
+Anora,2024,Drama|Romance|Comedy,139,3.79,2416629,843691,USA,English|English|Russian|Armenian,https://letterboxd.com/film/anora/,2026-05-04
+Django Unchained,2012,Drama|Western,165,4.33,3181212,281204,USA,English|English|French|German,https://letterboxd.com/film/django-unchained/,2026-05-04
+The Devil Wears Prada,2006,Comedy|Drama,109,3.83,2950214,520466,USA,English|English|French,https://letterboxd.com/film/the-devil-wears-prada/,2026-05-04
+The Shawshank Redemption,1994,Crime|Drama,142,4.59,2750584,284120,USA,English,https://letterboxd.com/film/the-shawshank-redemption/,2026-05-04
